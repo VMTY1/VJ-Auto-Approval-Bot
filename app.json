@@ -3,7 +3,7 @@
   "description": "An Advance Auto Approval Bot By @Snowball_Official",
   "logo": "https://telegra.ph/file/3b7050b8b5d918a00b490.jpg",
   "keywords": ["AutoApproval Bot", "Mongo DB"],
-  "repository": "https://github.com/Snowball-0/AutoReqAccept-TGBot",
+  "repository": "https://github.com/VMTY1/VJ-Auto-Approval-Bot",
   "env": {
     "API_ID": {
       "description": "Your APP ID From my.telegram.org ",
